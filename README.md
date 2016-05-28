@@ -12,3 +12,9 @@ ToDo:
  - 视频地址提取尚未完工，想用正则表达式进行提取
  - 结果存储到MongoDB未完工，待定
  - 可以写一个自动发布脚本，将热门数据自动发布到个人网页上（版权问题、道德问题，不实现）
+ - 
+ 
+提取的地址如下：
+ <img src="https://github.com/henan715/tumblrScrapy/blob/master/捕获.PNG"/>
+[视频地址](https://github.com/henan715/tumblrScrapy/blob/master/2.PNG)
+[图片地址](https://github.com/henan715/tumblrScrapy/blob/master/捕获.PNG)
